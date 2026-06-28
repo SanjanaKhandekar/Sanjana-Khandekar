@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SanjanaKhandekar/Sanjana-Khandekar/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sanjana Khandekar</h1>
 <h3 align="center">Aspiring Full-Stack Java Developerper from India</h3>
 
